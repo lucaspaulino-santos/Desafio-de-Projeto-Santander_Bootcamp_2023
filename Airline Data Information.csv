@@ -1,0 +1,32 @@
+First Name,Nationality,Airport Name,Flight Status,Flight Information
+Edithe,Brazilian,Coldfoot Airport,On Time,"Olá Edithe,
+
+Estamos felizes em informá-la que seu voo partindo do Coldfoot Airport está seguindo conforme o horário previsto. Seus planos de viagem estão em perfeito andamento. 
+
+Desejamos-lhe uma boa viagem!
+
+Atenciosamente,
+[Seu Nome]
+[Companhia Aérea]"
+Dominica,French,Ottawa Airport,Delayed,"Chère Dominica,
+
+Nous regrettons de vous informer que votre vol au départ de l'aéroport d'Ottawa est retardé. Nous nous excusons pour tout inconvénient que cela pourrait causer à vos plans de voyage. Nous vous assurons que nous faisons tout notre possible pour minimiser le délai et vous permettre de rejoindre votre destination dès que possible.
+
+Veuillez accepter nos excuses pour ce désagrément.
+
+Cordialement,
+[Votre nom]
+[Position dans la compagnie aérienne]"
+Rand,English,Duxford Aerodrome,Cancelled,"Dear Rand,
+
+We regret to inform you that your scheduled flight departing from Duxford Aerodrome has been cancelled due to unforeseen circumstances. We sincerely apologize for any inconvenience this might cause you.
+
+Our team is working diligently to provide a suitable alternative for your journey. We hope to be able to offer you another flight soon and will update you as soon as possible.
+
+We appreciate your understanding and patience in this matter. If you need any further assistance, please don't hesitate to contact our customer service team.
+
+Best Regards,
+
+[Your Name]
+Customer Service
+[Your Airline Company]"
