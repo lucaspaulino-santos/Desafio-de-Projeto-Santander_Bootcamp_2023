@@ -11,7 +11,7 @@ For this challenge, I proposed exploring generative AI by creating personalized 
 ## Repository Structure
 
 -   **Data:**  It contains two **.csv** files, the first  'Airline Dataset Updated - v2.csv' with the data used for the project, and the second 'Airline Data Information.csv' with the final result of this.
--   **Python File:**  This directory contains the **.py** file developed for ETL.
+-   **Python File:**  It contains the **etl_project.py** file developed for ETL.
 
 ## Programming Language Used
 
